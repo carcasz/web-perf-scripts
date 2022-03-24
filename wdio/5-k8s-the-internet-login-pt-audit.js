@@ -1,3 +1,4 @@
+describe('More steps and login', () => {
   it('open page', async () => {
     await browser.url('/login')
   })
